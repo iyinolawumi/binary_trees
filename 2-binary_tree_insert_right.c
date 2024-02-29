@@ -38,5 +38,4 @@ binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value)
 	new_node->parent = parent;
 
 	return (new_node);
->>>>>>> 45c697389cdd5e1d108618d932d74fe296bd4649
 }
